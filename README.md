@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ALiangNe&fontSize=70&animation=fadeIn)
-  
+  <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ALiangNe&fontSize=70&animation=fadeIn)
+   -->
   <p>Coding Enthusiast | Open Source Lover | Continuous Learner</p>
   
   <div>
