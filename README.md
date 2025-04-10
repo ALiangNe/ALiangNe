@@ -22,33 +22,30 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALiangNe&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
-## 🏆 GitHub奖杯
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ALiangNe&theme=nord&column=7" />
-</div>
+</div> -->
 
-## 📈 贡献图表
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALiangNe&theme=tokyonight" />
-</div>
+</div> -->
 
 ## 💻 我的项目
 
 <div align="center">
-  <a href="https://github.com/ALiangNe/项目1">
+  <!-- <a href="https://github.com/ALiangNe/项目1">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ALiangNe&repo=ALiangNe&theme=tokyonight" />
+  </a> -->
+  <a href="https://github.com/ALiangNe/ChainRate-PMP">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ALiangNe&repo=ALiangNe&theme=tokyonight" />
   </a>
   <!-- 随着你创建更多项目，可以在此添加更多项目卡片 -->
 </div>
 
-## 🌱 当前正在学习
-
-- 前端框架和库
-- 后端开发技术
-- 人工智能和机器学习
-- 移动应用开发
 
 ## 📫 联系我
 
