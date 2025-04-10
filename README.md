@@ -1,10 +1,10 @@
-# 👋 你好，欢迎来到我的GitHub主页！
+# 👋 Hello, Welcome to My GitHub Profile!
 
 <div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ALiangNe&fontSize=70&animation=fadeIn)
   
-  <p>热爱编程 | 开源爱好者 | 持续学习者</p>
+  <p>Coding Enthusiast | Open Source Lover | Continuous Learner</p>
   
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -15,7 +15,7 @@
   </div>
 </div>
 
-## 📊 我的GitHub数据
+## 📊 My GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALiangNe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -23,41 +23,7 @@
 </div>
 
 
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ALiangNe&theme=nord&column=7" />
-</div> -->
-
-
-
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALiangNe&theme=tokyonight" />
-</div> -->
-
-## 💻 我的项目
-
-<div align="center">
-  <!-- <a href="https://github.com/ALiangNe/项目1">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ALiangNe&repo=ALiangNe&theme=tokyonight" />
-  </a> -->
-  <a href="https://github.com/ALiangNe/ChainRate-PMP">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ALiangNe&repo=ALiangNe&theme=tokyonight" />
-  </a>
-  <!-- 随着你创建更多项目，可以在此添加更多项目卡片 -->
-</div>
-
-
-## 📫 联系我
+## 📫 Contact Me
 
 - GitHub: [@ALiangNe](https://github.com/ALiangNe)
-<!-- 你可以添加更多联系方式 -->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALiangNe&color=blueviolet&style=flat-square&label=访问量" />
-  
-  ### 感谢您的访问！
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-</div> 
+<!-- You can add more contact methods here -->
