@@ -1,4 +1,4 @@
-# 👋 Hello, Welcome to My GitHub Profile!
+# 👋 Hello, Welcome to Leon Lu's GitHub Profile!
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALiangNe&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALiangNe&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&custom_title=Leon%20Lu%20GitHub%20Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALiangNe&layout=compact&langs_count=8&theme=buefy" />
 </div>
 
