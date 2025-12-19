@@ -4,8 +4,6 @@
 - ⚙️ Comfortable with **Node.js / Express / Vue / React** and modern frontend ecosystems  
 - 📚 Always exploring better **developer experience**, **automation**, and **clean architecture**  
 
----
-
 ## ✨ Advanced GitHub Analytics
 
 <div align="center">  
@@ -18,5 +16,4 @@
 
 ## 📫 Contact Me
 
-- GitHub: [@ALiangNe](https://github.com/ALiangNe)
 - Email: **vincenteustacea@gmail.com**
