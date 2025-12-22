@@ -4,7 +4,7 @@
 - ⚙️ Comfortable with **Node.js / Express / Vue / React** and modern frontend ecosystems  
 - 📚 Always exploring better **developer experience**, **automation**, and **clean architecture**  
 
-## ✨ Advanced GitHub Analytics
+## ✨ GitHub Statistics
 
 <div align="center">  
 
