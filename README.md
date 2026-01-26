@@ -3,6 +3,9 @@
 - 🔭 A full‑stack & blockchain enthusiast, focusing on **web applications** and **DApp** development  
 - ⚙️ Comfortable with **Node.js / Express / Vue / React** and modern frontend ecosystems  
 - 📚 Always exploring better **developer experience**, **automation**, and **clean architecture**  
+- 📫 You can reach me at **vincenteustacea@gmail.com**
+ or on WeChat **aLiangNe_**
+
 
 ## ✨ GitHub Statistics
 
@@ -13,7 +16,3 @@
   <img height="170em" src="https://github-readme-stats-sandy-tau-32.vercel.app/api/top-langs/?username=ALiangNe&layout=compact&langs_count=8&theme=buefy" />
   
 </div>
-
-## 📫 Contact Me
-
-- Email: **vincenteustacea@gmail.com**
