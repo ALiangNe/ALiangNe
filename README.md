@@ -1,4 +1,4 @@
-## 👋 Hello, About Leon Lu
+## 👋 Hello, About Leon
 
 - 🔭 A full‑stack & blockchain enthusiast, focusing on **web applications** and **DApp** development  
 - ⚙️ Comfortable with **Node.js / Express / Vue / React** and modern frontend ecosystems  
