@@ -1,10 +1,14 @@
-## 👋 Hello, About Leon Lu
+<!-- ## Hello, About Leon Lu -->
+## Leon Lu
 
-- 🔭 A full‑stack & blockchain enthusiast, focusing on **web applications** and **DApp** development  
-- ⚙️ Comfortable with **Node.js / Express / Vue / React** and modern frontend ecosystems  
-- 📚 Always exploring better **developer experience**, **automation**, and **clean architecture**  
-- 📫 You can reach me at **vincenteustacea@gmail.com**
- or on WeChat **aLiangNe_**
+<!-- - 🔭 A full‑stack & blockchain enthusiast, focusing on **web applications** and **DApp** development -->
+<!-- - ⚙️ Comfortable with **Node.js / Express / Vue / React** and modern frontend ecosystems -->
+<!-- - 📚 Always exploring better **developer experience**, **automation**, and **clean architecture** -->
+<!-- - 📫 You can reach me at **vincenteustacea@gmail.com** -->
+<!-- or on WeChat **aLiangNe_** -->
+
+Full-Stack Software Engineer
+Interested in AI, Web3, and building thoughtful software.
 
 
 <!-- ## ✨ GitHub Statistics -->
