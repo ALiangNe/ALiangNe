@@ -7,12 +7,12 @@
  or on WeChat **aLiangNe_**
 
 
-## ✨ GitHub Statistics
+<!-- ## ✨ GitHub Statistics -->
 
-<div align="center">  
+<!-- <div align="center"> -->
 
   <!-- Main overall stats (all‑time, self‑hosted) -->
-  <img height="170em" src="https://github-readme-stats-sandy-tau-32.vercel.app/api?username=ALiangNe&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&custom_title=Leon%20Lu%20GitHub%20Stats" />
-  <img height="170em" src="https://github-readme-stats-sandy-tau-32.vercel.app/api/top-langs/?username=ALiangNe&layout=compact&langs_count=8&theme=buefy" />
+  <!-- <img height="170em" src="https://github-readme-stats-sandy-tau-32.vercel.app/api?username=ALiangNe&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&custom_title=Leon%20Lu%20GitHub%20Stats" /> -->
+  <!-- <img height="170em" src="https://github-readme-stats-sandy-tau-32.vercel.app/api/top-langs/?username=ALiangNe&layout=compact&langs_count=8&theme=buefy" /> -->
   
-</div>
+<!-- </div> -->
